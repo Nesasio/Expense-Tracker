@@ -1,8 +1,5 @@
 # A Simple Balance Sheet Application built in Python
 
-# Author: Light, Github: https://github.com/Nesasio
-# Status: Development
-
 # ================================================
 
 import os
